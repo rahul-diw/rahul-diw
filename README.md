@@ -14,14 +14,14 @@ I enjoy learning by building real-world projects rather than simply following tu
 
 ## Highlights
 
-* 🎓 MCA Graduate (2024)
-* 💻 Built **11+ Full-Stack & Web Development Projects**
-* 🧠 Solved **240+ DSA problems**
-* ⚡ Strong foundation in React.js, Next.js, Node.js & Database Design
-* 📊 Background in Data Analytics, Advanced SQL & Power BI
-* 🚀 Open to Software Developer & Full-Stack Developer opportunities
+* MCA Graduate (2024)
+* Built **11+ Full-Stack & Web Development Projects**
+* Solved **240+ DSA problems**
+* Strong foundation in React.js, Next.js, Node.js & Database Design
+* Background in Data Analytics, Advanced SQL & Power BI
+* Open to Software Developer & Full-Stack Developer opportunities
 
-## 📫 Reach Me
+Reach Me:
 
 📧 [diwakarr135@gmail.com](mailto:diwakarr135@gmail.com)
 
