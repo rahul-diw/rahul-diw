@@ -123,7 +123,7 @@ React • CSS
 
 <p align="center">
 
-<a href="https://raw.githubusercontent.com/rahul-diw/rahul-diw/main/RESUME%20NEW.pdf" target="_blank">
+<a href="https://raw.githubusercontent.com/rahul-diw/rahul-diw/main/Rahul_Diwakar_Resume.pdf" target="_blank">
 
 <img src="https://img.shields.io/badge/View%20Resume-111827?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
 
