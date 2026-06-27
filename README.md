@@ -4,6 +4,8 @@
 Full-Stack Developer | React • Next.js • Node.js • MongoDB
 </h3>
 
+---
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1200&color=2563EB&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
 </p>
