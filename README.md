@@ -119,6 +119,20 @@ React • CSS
 
 ---
 
+## 📄 Resume
+
+<p align="center">
+
+<a href="YOUR_RESUME_LINK">
+
+<img src="https://img.shields.io/badge/View%20Resume-111827?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
+
+</a>
+
+</p>
+
+---
+
 ## 📫 Connect With Me
 
 <p align="center">
