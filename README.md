@@ -1,30 +1,39 @@
-# Hey there! 👋
+<h1 align="center">Hi 👋, I'm Rahul Diwakar</h1>
 
-I'm **Rahul Diwakar**, a Full-Stack / Software Developer based in India.
+<h3 align="center">
+Full-Stack Developer | React • Next.js • Node.js • MongoDB
+</h3>
 
-I build scalable web applications using **React.js, Next.js, Node.js, Express.js, MongoDB, and MySQL**, with a strong focus on clean architecture, responsive UI, and performance.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1200&color=2563EB&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
+</p>
 
-Coming from a data-centric background, I enjoy designing efficient backend systems, optimizing databases, and turning ideas into polished full-stack products.
+---
 
-Currently, I'm building modern portfolio-grade applications, including a **Smart Task Administration System**, while continuously improving my problem-solving skills through Data Structures & Algorithms.
+## 👨‍💻 About Me
 
-My primary stack includes **React.js, Next.js, JavaScript, Node.js, Express.js, MongoDB, MySQL, REST APIs, Git, and GitHub**.
+- MCA Graduate (2024)
+- Full-Stack / Software Developer
+- Passionate about building scalable web applications
+- Currently exploring advanced React, Next.js & Backend Development
+- Solved **240+ DSA Problems**
+- Built **11+ Full-Stack & Web Development Projects**
+- Open to Internship & Full-Time Software Developer opportunities
 
-I enjoy learning by building real-world projects rather than simply following tutorials, and I'm always looking for opportunities to grow as a software engineer.
+---
 
-## Highlights
+## 🛠 Tech Stack
 
-* MCA Graduate (2024)
-* Built **11+ Full-Stack & Web Development Projects**
-* Solved **240+ DSA problems**
-* Strong foundation in React.js, Next.js, Node.js & Database Design
-* Background in Data Analytics, Advanced SQL & Power BI
-* Open to Software Developer & Full-Stack Developer opportunities
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,tailwind,git,github,vscode,figma&perline=7" />
+</p>
 
-## Reach Me:
+---
 
-📧 [diwakarr135@gmail.com](mailto:diwakarr135@gmail.com)
+## 📫 Connect With Me
 
-💼 [LinkedIn](https://www.linkedin.com/in/rahul-diwakar-7420072b0)
+📧 **Email:** [diwakarr135@gmail.com](mailto:diwakarr135@gmail.com)
 
-🌐 [Portfolio](https://my-portfolio-drab-iota-18.vercel.app/)
+💼 **LinkedIn:** https://www.linkedin.com/in/rahul-diwakar-7420072b0
+
+🌐 **Portfolio:** https://my-portfolio-drab-iota-18.vercel.app/
