@@ -24,6 +24,14 @@ Full-Stack Developer | React • Next.js • Node.js • MongoDB
 
 ---
 
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,tailwind,git,github,vscode,figma&perline=7" />
+</p>
+
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -38,14 +46,6 @@ Full-Stack Developer | React • Next.js • Node.js • MongoDB
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-diw&layout=compact&theme=github_dark&hide_border=true"/>
 
-</p>
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,tailwind,git,github,vscode,figma&perline=7" />
 </p>
 
 ---
