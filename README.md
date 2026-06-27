@@ -50,6 +50,75 @@ Full-Stack Developer | React • Next.js • Node.js • MongoDB
 
 ---
 
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🌐 Personal Portfolio
+
+Modern responsive portfolio showcasing my projects, skills, and experience.
+
+**Tech Stack**
+
+React • JavaScript • Tailwind CSS
+
+🔗 **Live Demo**
+
+https://my-portfolio-drab-iota-18.vercel.app/
+
+</td>
+
+<td width="50%">
+
+### 📋 Smart Task Administration System
+
+A full-stack task management platform with authentication, role-based access, dashboards and analytics.
+
+**Tech Stack**
+
+React • Node.js • Express • MongoDB
+
+🚧 Currently Building
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 📦 Multi Warehouse Inventory System
+
+Inventory management platform with warehouse tracking and reporting.
+
+**Tech Stack**
+
+React • Node.js • MongoDB
+
+</td>
+
+<td width="50%">
+
+### 🖼 Image Gallery Web App
+
+Responsive image gallery with modern UI and smooth animations.
+
+**Tech Stack**
+
+React • CSS
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
 ## 📫 Connect With Me
 
 <p align="center">
