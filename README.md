@@ -24,6 +24,24 @@ Full-Stack Developer | React • Next.js • Node.js • MongoDB
 
 ---
 
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rahul-diw&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-diw&theme=github-dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-diw&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
 ## 🛠 Tech Stack
 
 <p align="center">
