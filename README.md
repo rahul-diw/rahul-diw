@@ -150,3 +150,11 @@ React • CSS
 </a>
 
 </p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=rahul-diw&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
+
+</p>
