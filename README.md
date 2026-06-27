@@ -32,8 +32,18 @@ Full-Stack Developer | React • Next.js • Node.js • MongoDB
 
 ## 📫 Connect With Me
 
-📧 **Email:** [diwakarr135@gmail.com](mailto:diwakarr135@gmail.com)
+<p align="center">
 
-💼 **LinkedIn:** https://www.linkedin.com/in/rahul-diwakar-7420072b0
+<a href="mailto:diwakarr135@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-🌐 **Portfolio:** https://my-portfolio-drab-iota-18.vercel.app/
+<a href="https://www.linkedin.com/in/rahul-diwakar-7420072b0">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://my-portfolio-drab-iota-18.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
